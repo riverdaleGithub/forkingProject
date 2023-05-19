@@ -30,14 +30,13 @@ Before you start coding, it's essential to gain project proposal acceptance from
 
 5. **Revise and Finalize**: Incorporate any feedback or suggestions provided by your instructor or project supervisor into your project proposal. Make the necessary revisions and obtain final approval before proceeding with the coding phase.
 
-By following these steps, you will ensure that your project proposal meets the necessary requirements and gains acceptance, setting you on the right path for a successful coding experience.
 
 Remember, effective communication and clear documentation of your project proposal are key to obtaining acceptance and starting your coding journey with confidence!
 
 
 
 ## Student Proposal Template
-Feel free to copy this template and fill out for your proposal
+Feel free to copy this template and fill out for your proposal. There's a copy button to the right ➡️
 
 ```markdown
 
@@ -49,8 +48,9 @@ Feel free to copy this template and fill out for your proposal
 
 ## Timeline (One Week)
 
-Here's a suggested timeline to help you manage your time effectively during this project. Please change to fit your project needs
+🚨Day one is 5/19/2023🚨
 
+Here's a suggested timeline to help you manage your time effectively during this project. Please change to fit your project needs. 
 - **Day 1**: Choose a project type (Seedling, Bonsai, or Redwood) and find a peer's codebase to fork.
 - **Day 2**: Familiarize yourself with the codebase, understand its functionality, and identify areas of improvement or expansion.
 - **Day 3**: Start working on your project:
@@ -68,13 +68,6 @@ Here's a suggested timeline to help you manage your time effectively during this
 - **Day 7**: Submit your project and share your learnings and experiences with your peers.
 
 ```
-
----
-
-Feel free to use this project README as a starting point for your own project. Happy forking and building off your peer's code! 🎉👩‍💻👨‍💻
-
-
-
 
 
 
@@ -139,3 +132,8 @@ To learn how to fork code on Replit, you can refer to the following resources:
 
 - [Replit Documentation: Forking Projects](https://replit.com/talk/ask/How-to-fork/137989)
 - [Replit Help Center: How do I Fork a Project?](https://cs.westminstercollege.edu/cmpt201/repl.it.html#:~:text=To%20fork%20a%20repl%2C%20you,account%20that%20you%20can%20modify.)
+
+
+---
+
+Feel free to use this project README as a starting point for your own project. Happy forking and building off your peer's code! 🎉👩‍💻👨‍💻
