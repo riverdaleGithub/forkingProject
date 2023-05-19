@@ -1,7 +1,5 @@
 # 🍴Fork & Build 🍴
 
-## Project Types
-
 In this project, you will collaborate with your peers by forking their code from Replit and building off it in three different ways:
 
 ## 🌱 Seedling: Refactor
