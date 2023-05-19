@@ -130,7 +130,7 @@ A **Redwood** is a project where you will unleash your creativity and build some
 
 ![kiki](kiki.gif)
 <br>
-[from kiki's delivery service]([https://www.youtube.com/watch?v=4bG17OYs-GA](https://www.youtube.com/watch?v=HkMi2PF46gU))
+[from kiki's delivery service](https://www.youtube.com/watch?v=4bG17OYs-GA](https://www.youtube.com/watch?v=HkMi2PF46gU)
 
 Many open-source projects have discussion forums, mailing lists, or community platforms where contributors and users interact. Engaging in these discussions can be a valuable way to give back. You can:
 
