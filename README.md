@@ -126,6 +126,24 @@ A **Redwood** is a project where you will unleash your creativity and build some
 
 </details>
 
+## Helping Out
+
+![kiki](kiki.gif)
+<br>
+[from kiki's delivery service]([https://www.youtube.com/watch?v=4bG17OYs-GA](https://www.youtube.com/watch?v=HkMi2PF46gU))
+
+Many open-source projects have discussion forums, mailing lists, or community platforms where contributors and users interact. Engaging in these discussions can be a valuable way to give back. You can:
+
+Share your ideas, suggestions, or feature requests related to the codebase.
+Help answer questions from other users or contributors.
+Participate in design discussions or provide feedback on proposed changes.
+Remember to always be respectful and follow the community guidelines when engaging in discussions.
+
+By actively participating in the development process, reporting issues, and contributing your improvements, you contribute to the growth and improvement of the open-source project. Your contributions help make the codebase better and benefit the wider community of users and developers.
+
+Happy contributing!
+
+
 ## Additional Resources
 
 To learn how to fork code on Replit, you can refer to the following resources:
