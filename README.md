@@ -141,6 +141,8 @@ Remember to always be respectful and follow the community guidelines when engagi
 
 By actively participating in the development process, reporting issues, and contributing your improvements, you contribute to the growth and improvement of the open-source project. Your contributions help make the codebase better and benefit the wider community of users and developers.
 
+Begin to think about how you can add to your peers project, and how you will share what you've done with your peer and the class.
+
 Happy contributing!
 
 
