@@ -50,8 +50,8 @@ Feel free to copy this template and fill out for your proposal. There's a copy b
 
 🚨Day one is 5/19/2023🚨
 
-Here's a suggested timeline to help you manage your time effectively during this project. Please change to fit your project needs. 
-- **Day 1**: Choose a project type (Seedling, Bonsai, or Redwood) and find a peer's codebase to fork.
+Here's a suggested timeline to help you manage your time effectively during this project. Please change to fit your project needs save for day 1
+- **Day 1**: Choose a project type (Seedling, Bonsai, or Redwood), find a peer's codebase to fork, and submit project proposal
 - **Day 2**: Familiarize yourself with the codebase, understand its functionality, and identify areas of improvement or expansion.
 - **Day 3**: Start working on your project:
   - Refactor the codebase (Seedling)
