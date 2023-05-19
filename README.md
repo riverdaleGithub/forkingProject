@@ -1,4 +1,4 @@
-# 🍴Forking & Build 🍴
+# 🍴Fork & Build 🍴
 
 ## Project Types
 
@@ -58,3 +58,11 @@ A **Redwood** is a project where you will unleash your creativity and build some
 | 🔗 Peer Code Interface | Effectively integrates or interfaces with the forked peer's code |
 
 </details>
+
+## Additional Resources
+
+To learn how to fork code on Replit, you can refer to the following resources:
+
+- [Replit Documentation: Forking Projects](https://replit.com/talk/ask/How-to-fork/137989)
+- [Replit Help Center: How do I Fork a Project?](https://cs.westminstercollege.edu/cmpt201/repl.it.html#:~:text=To%20fork%20a%20repl%2C%20you,account%20that%20you%20can%20modify.)
+
