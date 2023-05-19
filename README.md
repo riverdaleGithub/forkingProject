@@ -1,6 +1,82 @@
 # 🍴Fork & Build 🍴
 
-In this project, you will collaborate with your peers by forking their code from Replit and building off it in three different ways:
+👥 Welcome to the Forking and Building Off Peer's Code project! In this project, you will have the opportunity to collaborate with your peers, explore their code, and build upon their projects. 🚀
+
+## Project Description
+
+In this project, you will learn the valuable skill of working with existing codebases by forking your peer's projects from Replit. You will have three ways to choose from:
+
+- 🌱 **Seedling**: Refactor your peer's codebase to improve its structure, readability, and efficiency.
+- 🌿 **Bonsai**: Expand upon your peer's codebase by adding new features, enhancing functionality, and improving the project.
+- 🌳 **Redwood**: Unleash your creativity and build something entirely new, utilizing or interfacing with the codebase forked from your peer.
+
+## Before Coding
+
+Before you start coding, it's essential to gain project proposal acceptance from your instructor and peer code owner. This step ensures that your project aligns with the objectives of the course or program and sets clear expectations for your work. Here are some key steps to follow to obtain project proposal acceptance:
+
+
+1. **Choose a Project Type**: Review the project types available (Seedling, Bonsai, or Redwood) and select the one that best suits your interests and learning goals.
+
+2. **Identify a Peer's Codebase**: Find a peer's codebase on Replit that you wish to fork and work with. This codebase should be relevant to your chosen project type and provide a foundation for your modifications or expansion.
+
+3. **Project Proposal**: Write a project proposal that includes the following information:
+   - **Student Information**: Provide your name and any relevant details requested by your instructor or project supervisor.
+   - **Project Type**: Clearly state the project type you have chosen (Seedling, Bonsai, or Redwood).
+   - **Peer's Codebase**: Include the link to the forked codebase on Replit.
+   - **Project Description**: Provide a brief description of your planned modifications or additions. Explain the objective of your project and what you aim to achieve by building upon the peer's codebase.
+   - **Timeline**: Outline a realistic timeline that shows how you will allocate time for each phase of the project, including research, development, testing, and documentation.
+
+4. **Submit and Discuss**: Submit your project proposal to your instructor or project supervisor for review. Schedule a discussion to present your proposal, clarify any doubts, and receive feedback.
+
+5. **Revise and Finalize**: Incorporate any feedback or suggestions provided by your instructor or project supervisor into your project proposal. Make the necessary revisions and obtain final approval before proceeding with the coding phase.
+
+By following these steps, you will ensure that your project proposal meets the necessary requirements and gains acceptance, setting you on the right path for a successful coding experience.
+
+Remember, effective communication and clear documentation of your project proposal are key to obtaining acceptance and starting your coding journey with confidence!
+
+
+
+## Student Proposal Template
+Feel free to copy this template and fill out for your proposal
+
+```markdown
+
+**Student Name**: [Your Name]
+**Project Type**: [Seedling/Bonsai/Redwood]
+**Peer's Codebase**: [Link to the forked codebase on Replit]
+
+**Project Description**: In this project, I will [provide a brief description of your planned modifications or additions]. My goal is to [explain the objective of your project and what you aim to achieve]. By forking [peer's name]'s codebase, I will [describe how you plan to utilize or interact with the existing code]. This project aligns with the [chosen project type] category, and I am excited to explore and expand upon the existing codebase.
+
+## Timeline (One Week)
+
+Here's a suggested timeline to help you manage your time effectively during this project. Please change to fit your project needs
+
+- **Day 1**: Choose a project type (Seedling, Bonsai, or Redwood) and find a peer's codebase to fork.
+- **Day 2**: Familiarize yourself with the codebase, understand its functionality, and identify areas of improvement or expansion.
+- **Day 3**: Start working on your project:
+  - Refactor the codebase (Seedling)
+  - Add new features or enhance functionality (Bonsai)
+  - Begin designing and implementing your creative project (Redwood)
+- **Day 4**: Continuously iterate and improve your work:
+  - Refine the refactored codebase, focusing on structure, readability, and efficiency (Seedling)
+  - Iterate on new features or improvements, and optimize the code (Bonsai)
+  - Develop and refine your creative project, ensuring it aligns with your vision (Redwood)
+- **Day 5**: Finalize your project:
+  - Complete any remaining tasks, such as documentation and testing (Seedling/Bonsai)
+  - Add finishing touches, polish the code, and ensure documentation is comprehensive (Redwood)
+- **Day 6**: Review and test your project to ensure it meets the requirements and rubric criteria.
+- **Day 7**: Submit your project and share your learnings and experiences with your peers.
+
+```
+
+---
+
+Feel free to use this project README as a starting point for your own project. Happy forking and building off your peer's code! 🎉👩‍💻👨‍💻
+
+
+
+
+
 
 ## 🌱 Seedling: Refactor
 
@@ -63,4 +139,3 @@ To learn how to fork code on Replit, you can refer to the following resources:
 
 - [Replit Documentation: Forking Projects](https://replit.com/talk/ask/How-to-fork/137989)
 - [Replit Help Center: How do I Fork a Project?](https://cs.westminstercollege.edu/cmpt201/repl.it.html#:~:text=To%20fork%20a%20repl%2C%20you,account%20that%20you%20can%20modify.)
-
