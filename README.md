@@ -76,7 +76,7 @@ Here's a suggested timeline to help you manage your time effectively during this
 A **Seedling** is a project where you will refactor a peer's codebase. Your task is to improve the existing code by optimizing its structure, readability, and efficiency. You will analyze the code, identify areas for improvement, and make the necessary modifications.
 
 <details>
-<summary>Seedling Rubric</summary>
+<summary>Seedling Requirements</summary>
 
 | Criteria | Description |
 |----------|-------------|
@@ -92,7 +92,7 @@ A **Seedling** is a project where you will refactor a peer's codebase. Your task
 A **Bonsai** is a project where you will expand upon a peer's existing codebase. You will add new features, enhance functionality, and improve the overall project. Your goal is to build upon the foundation provided by your peer and take it to the next level.
 
 <details>
-<summary>Bonsai Rubric</summary>
+<summary>Bonsai Requirements</summary>
 
 | Criteria | Description |
 |----------|-------------|
@@ -108,7 +108,7 @@ A **Bonsai** is a project where you will expand upon a peer's existing codebase.
 A **Redwood** is a project where you will unleash your creativity and build something entirely new. While forking a peer's code as a starting point, you will research, design, and develop an original project that utilizes or interfaces with the existing codebase.
 
 <details>
-<summary>Redwood Rubric</summary>
+<summary>Redwood Requirements</summary>
 
 | Criteria | Description |
 |----------|-------------|
